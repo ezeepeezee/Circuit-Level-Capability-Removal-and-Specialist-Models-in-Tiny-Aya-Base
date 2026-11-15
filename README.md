@@ -60,9 +60,9 @@ The CRFT training loop, head-selection rules, evaluation harness and pruning/rec
 
 | File | Description |
 |---|---|
-| `[consolidated_notebook.ipynb]` | Phase 1: baselines, data splits, circuit discovery, selection, CRFT, shuffle/answer-text and template evaluations (Colab, T4) |
-| `[phase2_specialist_notebook.ipynb]` | Phase 2: matched-budget pruning arms and LoRA recovery (Kaggle, 2x T4) |
-| `[README.md]` | This file |
+| `Phase 1.ipynb` | Phase 1 (hackathon submission): baselines, data splits, circuit discovery, component selection, CRFT, shuffle/answer-text and template evaluations (Colab, T4) |
+| `Phase 2.ipynb` | Phase 2 (extension): matched-budget pruning arms and LoRA recovery for specialist models (Kaggle, 2x T4) |
+| `README.md` | This file |
 
 ## How to run
 
